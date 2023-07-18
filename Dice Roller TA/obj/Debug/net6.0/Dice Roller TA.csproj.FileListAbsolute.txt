@@ -1,0 +1,15 @@
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Dice Roller TA\Dice Roller TA\bin\Debug\net6.0\Dice Roller TA.exe
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Dice Roller TA\Dice Roller TA\bin\Debug\net6.0\Dice Roller TA.deps.json
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Dice Roller TA\Dice Roller TA\bin\Debug\net6.0\Dice Roller TA.runtimeconfig.json
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Dice Roller TA\Dice Roller TA\bin\Debug\net6.0\Dice Roller TA.dll
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Dice Roller TA\Dice Roller TA\bin\Debug\net6.0\Dice Roller TA.pdb
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Dice Roller TA\Dice Roller TA\obj\Debug\net6.0\Dice Roller TA.csproj.AssemblyReference.cache
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Dice Roller TA\Dice Roller TA\obj\Debug\net6.0\Dice Roller TA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Dice Roller TA\Dice Roller TA\obj\Debug\net6.0\Dice Roller TA.AssemblyInfoInputs.cache
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Dice Roller TA\Dice Roller TA\obj\Debug\net6.0\Dice Roller TA.AssemblyInfo.cs
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Dice Roller TA\Dice Roller TA\obj\Debug\net6.0\Dice Roller TA.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Dice Roller TA\Dice Roller TA\obj\Debug\net6.0\Dice Roller TA.dll
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Dice Roller TA\Dice Roller TA\obj\Debug\net6.0\refint\Dice Roller TA.dll
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Dice Roller TA\Dice Roller TA\obj\Debug\net6.0\Dice Roller TA.pdb
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Dice Roller TA\Dice Roller TA\obj\Debug\net6.0\Dice Roller TA.genruntimeconfig.cache
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Dice Roller TA\Dice Roller TA\obj\Debug\net6.0\ref\Dice Roller TA.dll
